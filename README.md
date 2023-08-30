@@ -8,7 +8,7 @@
 * [Installation / Usage](#Installation--Usage)
 * [DAX Formulas Used in Measures](#DAX-Formulas-Used-in-Measures)
 * [Bug / Feature Request](#Bug--Feature-Request)
-* [Authors](#Authors)
+
   
 ## Introduction
 * This project is aimed at developing a Power BI Dashboard for generating insights about road accident data in the United Kingdom.
